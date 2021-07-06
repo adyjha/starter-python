@@ -1,5 +1,5 @@
-sender='Adyansh Jha' 
-receiver='Shravan Jha'
+sender='Ayansh Jha' 
+receiver='Prapti Jha'
 address='''13 Cartwright Cresent 
 Lalor Park
 2147 NSW 

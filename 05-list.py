@@ -14,3 +14,9 @@ print(shoppingList)
 shoppingList.append('Phone')
 shoppingList.append('Puppy')
 print(shoppingList)
+list1 = [1, 2, 3, 4]
+list2 = ['I', 'tripped', 'over', 'and', 'hit', 'the', 'floor',]
+list3 = list1 + list2
+print(list3)
+list1 = [69]
+print(list1 * 1)
