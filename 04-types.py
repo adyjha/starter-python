@@ -13,4 +13,4 @@ message='I scored %s out of %s'
 print(message % (MyScore,TotalScore))
 # Multiplying strings
 print(10 * 'a')
-print(9999999 * 'Ady is the best')
+print(9 * 'Ady is the best')
